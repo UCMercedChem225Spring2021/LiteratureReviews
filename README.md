@@ -11,3 +11,6 @@ The list below tabulates the set of papers discussed by the class, the lead pres
   - K. Raghavachari and J. B. Anderson, "Electron Correlation Effects in Molecules", _J. Phys. Chem._ __100__, 12960–12973 (1996). DOI: [10.1021/jp953749i](https://doi.org/10.1021/jp953749i).
     - __Lead Presenter: A. Abou Taka__
   
+- __2/9/2021 | Scribe: TBD__
+  - J. Martin, J. Baker, and P. Pulay,"Comments on the molecular geometry of ferrocene: The dangers of using quantum chemistry programs as black boxes", _J. Comp. Chem._ __30__, 881-883 (2009). DOI: [10.1002/jcc.21106](https://doi.org/10.1002/jcc.21106).
+    - __Lead Presenter: TBD__
