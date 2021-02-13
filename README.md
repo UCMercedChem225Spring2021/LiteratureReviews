@@ -10,7 +10,11 @@ The list below tabulates the set of papers discussed by the class, the lead pres
     - __Lead Presenter: R. Leano__
   - K. Raghavachari and J. B. Anderson, "Electron Correlation Effects in Molecules", _J. Phys. Chem._ __100__, 12960–12973 (1996). DOI: [10.1021/jp953749i](https://doi.org/10.1021/jp953749i).
     - __Lead Presenter: A. Abou Taka__
-  
 - __2/9/2021 | Scribe: TBD__
   - J. Martin, J. Baker, and P. Pulay,"Comments on the molecular geometry of ferrocene: The dangers of using quantum chemistry programs as black boxes", _J. Comp. Chem._ __30__, 881-883 (2009). DOI: [10.1002/jcc.21106](https://doi.org/10.1002/jcc.21106).
+    - __Lead Presenter: TBD__
+- __2/16/2021 | Scribe: TBD__
+  - J. Almlöf, K. Faegri, and K. Korsell, "Principles for a direct SCF approach to LICAO–MOab‐initio calculations", _J. Comput. Chem._ __3__, 385–399 (1982). DOI:  [10.1002/jcc.540030314](http://doi.org/10.1002/jcc.540030314)
+    - __Lead Presenter: TBD__
+  - P. D. Jarowski, M. D. Wodrich, C. S. Wannere, P. v R. Schleyer, and K. N. Houk "How Large Is the Conjugative Stabilization of Diynes?” _J. Am. Chem. Soc._ __126__, 15036-15037 (2004). DOI: [10.1021/ja046432h](https://doi.org/10.1021/ja046432h)
     - __Lead Presenter: TBD__
