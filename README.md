@@ -1,5 +1,5 @@
 # LiteratureReviews
-This repository contains notes on a selection of quantum chemistry (and related theory) literature. The class discussions are summarized in this repositorie's Wiki. The repo also includes a collection of BibTeX files that have been prepared by students in the class that provide individual annotated bibliographies.
+This repository contains notes on a selection of quantum chemistry (and related theory) literature. The class discussions are summarized in this repository's [Wiki](https://github.com/UCMercedChem225Spring2021/LiteratureReviews/wiki). The repo also includes a collection of BibTeX files that have been prepared by students in the class that provide individual annotated bibliographies.
 
 The list below tabulates the set of papers discussed by the class, the lead presenter, and the assigned scribe. The lead presenter provides the first draft Wiki entry and presents that perspective to the class to initialize group discussion. The scribe takes care to appropriately modify the draft Wiki entry to fully capture the class's discussion of the paper.
 
