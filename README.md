@@ -26,3 +26,13 @@ The list below tabulates the set of papers discussed by the class, the lead pres
     - __Lead Presenter: TBD__
   - P. D. Jarowski, M. D. Wodrich, C. S. Wannere, P. v R. Schleyer, and K. N. Houk "How Large Is the Conjugative Stabilization of Diynes?” _J. Am. Chem. Soc._ __126__, 15036-15037 (2004). DOI: [10.1021/ja046432h](https://doi.org/10.1021/ja046432h)
     - __Lead Presenter: TBD__
+
+---
+
+### 3/9/2021 | Scribe: TBD
+  - Steven E. Wheeler, “Homodesmotic reactions for thermochemistry”, *WIREs Comput. Mol. Sci.* **2**, 204-220 (2012). DOI: [10.1002/wcms.72](https://doi.org/10.1002/wcms.72)
+    - __Lead Presenter: TBD__
+  - Steven E. Wheeler, Kendall N. Houk, Paul v. R. Schleyer, and Wesley D. Allen, “A hierarchy of homodesmotic reactions for thermochemistry”, J. Am. Chem. Soc. 131, 2547-2560 (2009). DOI: [10.1021/ja805843n](https://doi.org/10.1021/ja805843n)
+    - __Lead Presenter: TBD__
+  - Wei Deng, James R. Cheeseman, and Michael J. Frisch, “Calculation of nuclear spin-spin coupling constants of molecules with first and second row atoms in study of basis set dependence”, J. Chem. Theory Comput. 2, 1028-1037 (2006). DOI: [10.1021/ct600110u](https://doi.org/10.1021/ct600110u)
+    - __Lead Presenter: TBD__
