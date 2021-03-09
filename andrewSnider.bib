@@ -7,8 +7,8 @@
   number = {13-14},
   pages = {1894-1902},
   doi = {10.1002/(SICI)1521-3773(19990712)38:13/14<1894::AID-ANIE1894>3.0.CO;2-H},
-  annote = {COMPLETE THIS FIELD},
-  keywords = {COMPLETE THIS FIELD},
+  annote = {Nobel lecture given by John Pople on his work in computational methods for quantum chemistry. The article present a brief theory on computational chemistry, and how the advances in computing power led to the more broadscale implementation of the Schrodinger-Dirac treatment of atoms into molecular systems beyond the lone hydrogen atom, beginning with Hartree-Fock (HF) theory. The mathematical foundation of HF theory is expressed in deatail, including its core issue, the lack of electron correlation. Methods that attempt to treat the problem of electron correlation, such as configuration interaction and Møller−Plesset theory, are presented as possible solutions, but conflicting desires for high-level chemical accurracy and size-consistent computational scaling are shown to be the main limations for most models. In general, Pople also provides a well written breakdown of what it means to construct a theroertical model in regards to quantum chemistry, and lists the key stages a theorist must try and reach in the goal of developing a robust and accurrate model.},
+  keywords = {Theoretical Model, Hartree-Fock, molecular orbitals, electron integrals, SCF, basis set, UHF, RHF, semiempirical, ab initio, atomic orbitals, Møller−Plesset, Configuration Interaction, Coupled Cluster Theory, G3, DFT },
 }
 
 @article{Davidson:2019,
@@ -20,8 +20,8 @@
   number = {1},
   pages = {in press},
   doi = {10.1146/annurev-physchem-042018-052300},
-  annote = {COMPLETE THIS FIELD},
-  keywords = {COMPLETE THIS FIELD},
+  annote = {The article presents a detailed history of the life and work of Ernest Davidson, a pioneer in the field of computation chemistry and appiled theory. Davidson details his educational backstory and highlights some of his most notable work. Accross the text, his central goal is to discuss one of the main problems in the current field, namely the over focus on computational results, while lamenting the lack of desire for many chemists to actually try and understand and develop the underlying theoretical models that form the basis for quantum chemistry calculations. He discusses the rise of so called semi-empirical models, namely DFT, and how the black box nature of such methods meant calculations could be done by those with only a minimum knowledge of theory. Davidson stresses that while accessability is important, presenting computational results as fact without an understanding of the reasons they obtained such a result leads to potentially dangerous consequences when these semi-empirical methods are used carelessly. },
+  keywords = {Kohn-Sham, semi-empirical, DFT, open-shell, SCF, CI, MELD, Excited States, Electron Spin, Density Matrix},
 }
 
 @article{Raghavachari:1996,
@@ -33,8 +33,8 @@
   number = {31},
   pages = {12960-12973},
   doi = {10.1021/jp953749i},
-  annote = {COMPLETE THIS FIELD},
-  keywords = {COMPLETE THIS FIELD},
+  annote = {The history and attempted solutions to the problem of electron correlation is discussed in depth. Starting from a Hartree-Fock level of theory, approaches such as configuration interaction methods, coupled cluster theory, and perturbative based methods such as the Møller−Plesset theory are all analyzed from their treatment of electron correlation. More recent developments in the field of quantum Monte Carlo methods are also presented. For smaller molecules and basis sets, most of the single-configuration based theories provide accurate and fast results. However, the exponential scaling in regards to computational time means that many techniques become impossible to use for decent sized moluecular structures. Multiconfiguration theories, Monte Carlo methods, and density functional theory all represent alternatives that sacrifice a less explicit imlentations of thoery for quicker calculations and a more widely applicable range of molecule sizes and basis sets.},
+  keywords = {Electron correlation, Hartree-Fock, Configuration Interaction,CI, Coupled Cluster Theory, CCSD, SCF,Møller−Plesset, Computational Scaling, MCSCF, Monte Carlo, DFT, pseudopotentials },
 }
 
 @article{Martin:2009a,
@@ -46,8 +46,9 @@
   number = {6},
   pages = {881-883},
   doi = {10.1002/jcc.21106},
-  annote = {COMPLETE THIS FIELD},
-  keywords = {COMPLETE THIS FIELD},
+  annote = {This article discusses some of the common pitfalls associated with the use of black-box computational chemistry software. Without proper care, the non-linear optimaztion for most calculations makes it easy to converge to
+  higher local minima, resulting in higher energy distorted molecular geometries. These problems mostly arise from untrained experimatlists not understanding the importance of basis set selection, but are also compounded by the difficulty in accessing the specific parameters related to the SCF calculation. This later issue makes it especially problematic when comparing results from multiple software packages, where the same inputs can lead to varied results depending on which code is used.},
+  keywords = {SCF, SCF Convergence, Black-Box,6‐31G, basis set,quantum chemistry software,transition metals},
 }
 
 @article{Almlof:1982,
@@ -59,8 +60,8 @@
   number = {3},
   pages = {385--399},
   doi = {https://doi.org/10.1002/jcc.540030314},
-  annote = {COMPLETE THIS FIELD},
-  keywords = {COMPLETE THIS FIELD},
+  annote = {Direct SCF calculations, involving the explicity calculations of 2 electron integrals as needed, can be shown to be computationally faster using modern computational hardware compared to the general method of calculating all integrals at the start and accessing from memory when needed.},
+  keywords = {Direct SCF, Hartree-Fock, open-shell},
 }
 
 @article{Jarowski:2004hk, 
@@ -72,7 +73,45 @@
   number = {46}, 
   pages = {15036--15037}, 
   doi = {10.1021/ja046432h}, 
+  annote = {Author presents a critic of methods used in a previous paper, wherin model and expectation defying results are found for thermodynamical qunatities of 1,3-butadiene. Shows how the exemplified method introduced by Kistiakowsky et. all. severely underestimates the conjugative stabilization of dienes and of diynes.},
+  keywords = {Diynes, conjugation, G3},
+}
+
+@article{Wheeler:2012,
+  author = {Wheeler, Steven E.},
+  title = {Homodesmotic reactions for thermochemistry},
+  journal = {WIREs Computational Molecular Science},
+  year = {2012}
+  volume = {2},
+  number = {2},
+  pages = {204-220},
+  doi = {https://doi.org/10.1002/wcms.72},
+  annote = {Review article on the potential use of systemic error cancellation in order to obtain chemical accurracy for thermodynamic calculations. Discusses the original introduction of isodesmic bond-seperation reactions, as well as its extensions to homodesmotic (HD) and hyperdesmotic reactions. Takes note of extensive confusion and misuse of various methods and terminology for HD reactions, and puts forth an organized hierarchal structure HD reactions going forward. HD and its extensions are shown to be robust across several levels of DFT theory in reducing errors associated with correlation, basis set selection, and zero point vibrational energy. },
+  keywords = {Isodesmotic, homodesmotic, thermodynamics, error cancellation, focal point analysis, complete basis set limit, hydrocarbons},
+}
+
+@article{Wheeler:2009,
+  author = {Wheeler, Steven E. and Houk, Kendall N. and Schleyer, Paul v. R. and Allen, Wesley D.},
+  title = {A Hierarchy of Homodesmotic Reactions for Thermochemistry},
+  journal = {Journal of the American Chemical Society},
+  year = {2009},
+  volume = {131},
+  number = {7},
+  pages = {2547-2560},
+  doi = {10.1021/ja805843n},
   annote = {COMPLETE THIS FIELD},
   keywords = {COMPLETE THIS FIELD},
 }
 
+@article{Deng:2006,
+  author = {Deng, Wei and Cheeseman, James R. and Frisch, Michael J.},
+  title = {Calculation of Nuclear Spin−Spin Coupling Constants of Molecules with First and Second Row Atoms in Study of Basis Set Dependence},
+  journal = {Journal of Chemical Theory and Computation},
+  year = {2006},
+  volume = {2},
+  number = {4},
+  pages = {1028-1037},
+  doi = {10.1021/ct600110u},
+  annote = {Proposal for a rigourous method of augmenting standard basis sets to better suit the calculation of spin-spin coupling NMR constants. Most common basis sets are optmized for valence electrons, and treatment of core electrons required for accurate coupling constants is lacking. Article lists several basis sets that have been introduced purely for this reason, but computational limitations inhibit their widescale use. Instead, a specific method for modifying any existing basis set is introduced and shown to have good results both small and large basis sets.},
+  keywords = {coupling constants, NMR, DFT, basis sets, Fermi contact },
+}
