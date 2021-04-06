@@ -36,3 +36,12 @@ The list below tabulates the set of papers discussed by the class, the lead pres
     - __Lead Presenter: TBD__
   - Wei Deng, James R. Cheeseman, and Michael J. Frisch, “Calculation of nuclear spin-spin coupling constants of molecules with first and second row atoms in study of basis set dependence”, J. Chem. Theory Comput. 2, 1028-1037 (2006). DOI: [10.1021/ct600110u](https://doi.org/10.1021/ct600110u)
     - __Lead Presenter: TBD__
+
+
+---
+
+### 4/6/2021
+  - E. R. Davidson, "The iterative calculation of a few of the lowest eigenvalues and corresponding eigenvectors of large real-symmetric matrices”, *J. Comput. Phys.* **17**, 87–94 (1975).
+  - J. B. Foresman, M. Head-Gordon, J. A. Pople, and M. J. Frisch, "Toward a systematic molecular orbital theory for excited states”, *J. Phys. Chem.* **96**, 135–149 (1992).
+  - M. Head-Gordon, J. A. Pople, and M. J. Frisch, "MP2 Energy Evaluation by Direct Methods." *Chem. Phys. Lett.* **153**, 503–506 (1988). [[ Wiki Page | MP2-Energy-Evaluation-by-Direct-Methods ]]
+  - M. J. Frisch, M. Head-Gordon, and J. A. Pople, "A Direct MP2 Gradient Method”, *Chem, Phys. Lett.* **166**, 275–280 (1990).
